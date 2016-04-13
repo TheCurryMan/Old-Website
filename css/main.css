@@ -2,13 +2,18 @@ body {
     margin:0;
 
 }
+
+.navbar-fixed {
+  height:0px;
+}
+
 #splash {
-    background: url("Images/bg1.jpg") no-repeat;
+    background: url("Images/bg2.jpg") no-repeat;
     background-size: 100% 100%;
     height: 100%;
     left: 0;
     right: 0;
-    position: absolute;
+    position: relative;
 }
 
 #name {
@@ -84,3 +89,221 @@ body {
   transform: translateY(5px);
   /* move the element down by 5px (it will stay in place because it's attached to the element that also moves up 5px) */
 }
+
+#about {
+  background-color: #3498db;
+  height: 50%;
+  width: 100%;
+  color: white;
+  font-family: "Oxygen";
+
+}
+#about hr {
+  width: 20%;
+}
+
+#about h5 {
+  font-weight: 300;
+  word-spacing:3px;
+  line-height: 160%;
+  color:white;
+}
+#about a {
+  color:white;
+  padding-bottom:4px;
+}
+
+.hvr-underline-from-center {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+  position: relative;
+  overflow: hidden;
+}
+.hvr-underline-from-center:before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  left: 50%;
+  right: 50%;
+  bottom: 0;
+  background: white;
+  height: 4px;
+  -webkit-transition-property: left, right;
+  transition-property: left, right;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-timing-function: ease-out;
+  transition-timing-function: ease-out;
+}
+.hvr-underline-from-center:hover:before, .hvr-underline-from-center:focus:before, .hvr-underline-from-center:active:before {
+  left: 0;
+  right: 0;
+}
+
+#skills h1 {
+  font-family:Oxygen;
+}
+
+#Expertise {
+  margin-top:5%;
+  color:white;
+  font-family:Oxygen;
+}
+
+#Expertise hr {
+  width:20%;
+}
+
+.title1 {
+  margin-top:0;
+}
+
+#exper h5{
+  font-family:Oxygen;
+  font-weight:100;
+  line-height:160%;
+  color:white;
+}
+
+#Expertise h3{
+
+  margin-top:0;
+  margin-bottom:5%;
+
+}
+
+
+
+.bars {
+
+  border-right: solid white 1px;
+}
+
+
+
+#skills {
+  color:white;
+  font-size:28px;
+  text-align:right;
+}
+
+#skills h5 {
+
+  font-family:Roboto;
+  font-weight:100;
+  right:0;
+  margin-top:0;
+  margin-bottom:14px;
+
+}
+
+#skill {
+
+  width:80%;
+  margin-top:0;
+  list-style: none;
+
+  position: relative;
+  line-height: 2em;
+
+}
+
+#skill div {
+  margin-bottom:20px;
+}
+
+#skill li {
+
+  background:#e9e5e2;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#e1ddd9), to(#e9e5e2));
+  background-image: -webkit-linear-gradient(top, #e1ddd9, #e9e5e2);
+  background-image: -moz-linear-gradient(top, #e1ddd9, #e9e5e2);
+  background-image: -ms-linear-gradient(top, #e1ddd9, #e9e5e2);
+  background-image: -o-linear-gradient(top, #e1ddd9, #e9e5e2);
+  background-image: linear-gradient(top, #e1ddd9, #e9e5e2);
+  height:20px;
+  border-radius:10px;
+  -moz-box-shadow: 0 1px 0px #bebbb9 inset, 0 1px 0 #fcfcfc;
+  -webkit-box-shadow: 0 1px 0px #bebbb9 inset, 0 1px 0 #fcfcfc;
+  box-shadow: 0 1px 0px #bebbb9 inset, 0 1px 0 #fcfcfc;
+}
+
+
+
+.bar {
+  height:18px;
+  margin:1px 2px;
+  position:absolute;
+  border-radius:10px;
+  -moz-box-shadow: 0 1px 0px #fcfcfc inset, 0 1px 0 #bebbb9;
+  -webkit-box-shadow: 0 1px 0px #fcfcfc inset, 0 1px 0 #bebbb9;
+  box-shadow: 0 1px 0px #fcfcfc inset, 0 1px 0 #bebbb9;
+}
+
+.graphic-design {
+  width:100%;
+  -moz-animation:graphic-design 2s ease-out;
+  -webkit-animation:graphic-design 2s ease-out;
+  background-color: #f674a4;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#0095db), to(#0095db));
+  background-image: -webkit-linear-gradient(top, #0095db, #0095db);
+  background-image: -moz-linear-gradient(top, #0095db, #0095db);
+  background-image: -ms-linear-gradient(top, #0095db, #0095db);
+  background-image: -o-linear-gradient(top, #0095db, #0095db);
+  background-image: linear-gradient(top, #0095db, #0095db);
+}
+
+.html-css {
+  width:90%;
+  -moz-animation:html-css 2s ease-out;
+  -webkit-animation:html-css 2s ease-out;
+  background-color: #f0bb4b;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#0095db), to(#0095db));
+  background-image: -webkit-linear-gradient(top, #0095db, #0095db);
+  background-image: -moz-linear-gradient(top, #0095db, #0095db);
+  background-image: -ms-linear-gradient(top, #0095db, #0095db);
+  background-image: -o-linear-gradient(top, #0095db, #0095db);
+  background-image: linear-gradient(top, #0095db, #0095db);
+}
+
+.jquery {
+  width:70%;
+  -moz-animation:jquery 2s ease-out;
+  -webkit-animation:jquery 2s ease-out;
+  background-color: #0095db;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#0095db), to(#0095db));
+  background-image: -webkit-linear-gradient(top, #0095db, #0095db);
+  background-image: -moz-linear-gradient(top, #0095db, #0095db);
+  background-image: -ms-linear-gradient(top, #0095db, #0095db);
+  background-image: -o-linear-gradient(top, #0095db, #0095db);
+  background-image: linear-gradient(top, #0095db, #0095db);
+}
+
+.wordpress {
+  width:80%;
+  -moz-animation:wordpress 2s ease-out;
+  -webkit-animation:wordpress 2s ease-out;
+  background-color: #0095db;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#0095db), to(#0095db));
+  background-image: -webkit-linear-gradient(top, #0095db, #0095db);
+  background-image: -moz-linear-gradient(top, #0095db, #0095db);
+  background-image: -ms-linear-gradient(top, #0095db, #0095db);
+  background-image: -o-linear-gradient(top, #0095db, #0095db);
+  background-image: linear-gradient(top, #0095db, #0095db)
+}
+
+@-moz-keyframes graphic-design {0%  { width:0px;} 100%{ width:100%;}  }
+@-moz-keyframes html-css        { 0%  { width:0px;} 100%{ width:90%;}  }
+@-moz-keyframes jquery      { 0%  { width:0px;} 100%{ width:75%;}  }
+@-moz-keyframes wordpress   { 0%  { width:0px;} 100%{ width:80%;}  }
+
+@-webkit-keyframes graphic-design       { 0%  { width:0px;} 100%{ width:100%;}  }
+@-webkit-keyframes html-css        { 0%  { width:0px;} 100%{ width:90%;}  }
+@-webkit-keyframes jquery      { 0%  { width:0px;} 100%{ width:70%;}  }
+@-webkit-keyframe wordpress     { 0%  { width:0px;} 100%{ width:65%;}  }
