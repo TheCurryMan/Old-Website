@@ -2,46 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e486598d-19b4-4104-aaf1-1c0f96a8149b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Screen Shot 2016-04-14 at 11.02.22 PM.png" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Images/bg1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Images/bg1bw.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Images/bg2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/Images/profile2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/downarrow.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/hover.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/materialize.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/materialize.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font/material-design-icons/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font/material-design-icons/Material-Design-Icons.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font/material-design-icons/Material-Design-Icons.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font/material-design-icons/Material-Design-Icons.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font/material-design-icons/Material-Design-Icons.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font/material-design-icons/Material-Design-Icons.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font/roboto/Roboto-Bold.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font/roboto/Roboto-Bold.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font/roboto/Roboto-Bold.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font/roboto/Roboto-Bold.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font/roboto/Roboto-Light.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font/roboto/Roboto-Light.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font/roboto/Roboto-Light.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font/roboto/Roboto-Light.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font/roboto/Roboto-Medium.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font/roboto/Roboto-Medium.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font/roboto/Roboto-Medium.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font/roboto/Roboto-Medium.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font/roboto/Roboto-Regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font/roboto/Roboto-Regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font/roboto/Roboto-Regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font/roboto/Roboto-Regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font/roboto/Roboto-Thin.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font/roboto/Roboto-Thin.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font/roboto/Roboto-Thin.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font/roboto/Roboto-Thin.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/materialize.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/materialize.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resume.html" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Crimson1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/LogoCrimson2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/speech.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/udemy2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/udemy3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Old/resume.html" afterPath="$PROJECT_DIR$/resume.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/Screen Shot 2016-04-14 at 11.02.22 PM.png" afterPath="$PROJECT_DIR$/images/udemy.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Old/index.html" afterPath="$PROJECT_DIR$/Old/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="$PROJECT_DIR$/assets/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="AvinashJ.iws" />
@@ -66,8 +36,28 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="146" column="50" selection-start-line="146" selection-start-column="50" selection-end-line="146" selection-end-column="50" />
+            <state relative-caret-position="149">
+              <caret line="185" column="68" selection-start-line="185" selection-start-column="68" selection-end-line="185" selection-end-column="68" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="resume.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resume.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="52" selection-start-line="1" selection-start-column="52" selection-end-line="1" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Old/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -76,8 +66,8 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+            <state relative-caret-position="174">
+              <caret line="2531" column="20" selection-start-line="2531" selection-start-column="20" selection-end-line="2531" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -101,6 +91,7 @@
         <option value="$PROJECT_DIR$/css/Bars.scss" />
         <option value="$PROJECT_DIR$/css/Bars1.css.scss" />
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/resume.html" />
         <option value="$PROJECT_DIR$/assets/css/main.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
@@ -169,39 +160,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AvinashJ" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AvinashJ" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AvinashJ" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AvinashJ" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -219,12 +178,15 @@
     <property name="list.type.of.created.stylesheet" value="SCSS" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images" />
-      <recent name="$PROJECT_DIR$/Images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/css/Images" />
-      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/assets/css/images" />
+      <recent name="$PROJECT_DIR$/Images" />
     </key>
   </component>
   <component name="RunManager">
@@ -293,12 +255,12 @@
       <option name="presentableId" value="Default" />
       <updated>1460523897825</updated>
       <workItem from="1460523899342" duration="15548000" />
-      <workItem from="1460665905377" duration="5519000" />
+      <workItem from="1460665905377" duration="11567000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21067000" />
+    <option name="totallyTimeSpent" value="27115000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -317,18 +279,18 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928476" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.06317204" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.06274008" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -482,18 +444,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/udemy.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/pic05.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/speech.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="52" selection-start-line="1" selection-start-column="52" selection-end-line="1" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Old/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+        <state relative-caret-position="174">
+          <caret line="2531" column="20" selection-start-line="2531" selection-start-column="20" selection-end-line="2531" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="146" column="50" selection-start-line="146" selection-start-column="50" selection-end-line="146" selection-end-column="50" />
+        <state relative-caret-position="149">
+          <caret line="185" column="68" selection-start-line="185" selection-start-column="68" selection-end-line="185" selection-end-column="68" />
           <folding />
         </state>
       </provider>
